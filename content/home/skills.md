@@ -29,7 +29,7 @@ weight = 7
   
 [[feature]]
   icon = "cuttlefish"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "C"
   description = ""  
   
