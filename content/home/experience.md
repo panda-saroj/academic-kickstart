@@ -28,9 +28,8 @@ date_format = "January 2006"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Assisting students in assignments and projects
+  * Grading exams, assignments and projects
   """
 
 [[experience]]
