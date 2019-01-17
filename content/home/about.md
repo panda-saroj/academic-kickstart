@@ -26,7 +26,7 @@ weight = 5
 [[education.courses]]
   course = "BE in Computer Science"
   institution = "National Institute of Technology, Rourkela, India"
-  year = 2008
+  year = 1998
  
 +++
 
