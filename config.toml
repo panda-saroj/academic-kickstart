@@ -60,14 +60,13 @@ enableGitInfo = false
   organizations = [ { name = "University of Texas at Arlington", url = "https://cse.uta.edu/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "sarojpanda.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "saroj.panda@uta.edu"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+  address = "Engineering Research Building Room 425, University of Texas at Arlington"
   office_hours = """
-  Monday 10:00 to 13:00<br>
-  Wednesday 09:00 to 10:00<br>
+  Friday 10:00 to 12:00<br>
   Otherwise email to book an appointment
   """
   phone = "888 888 88 88"
