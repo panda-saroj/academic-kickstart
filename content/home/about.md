@@ -32,4 +32,4 @@ weight = 5
 
 # Biography
 
-Saroj Panda is a second year Phd Computer Science Student at University of Texas at Arlington . His research interests include Deep Neural Network, machine learning, Artificial Intelligence and Software Engineering. 
+Saroj Panda is a second year Phd Computer Science Student at University of Texas at Arlington . His research interests include Deep Neural Network, machine learning, Artificial Intelligence and Software Engineering. He works in the Human Data Interaction (HDI) Lab at the University of Texas at Arlington.
