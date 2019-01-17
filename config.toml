@@ -57,13 +57,13 @@ enableGitInfo = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "University of Texas, Arlington", url = "https://cse.uta.edu/" } ]
+  organizations = [ { name = "University of Texas at Arlington", url = "https://cse.uta.edu/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "test@example.org"
+  email = "saroj.panda@uta.edu"
   address = "Building 1 Room 1, Stanford University, California, 90210, USA"
   office_hours = """
   Monday 10:00 to 13:00<br>
