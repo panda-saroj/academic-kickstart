@@ -60,4 +60,13 @@ date_format = "January 2006"
   date_end = "2007-08-31"
   description = """Develope and support Wireless products"""
  
+[[experience]]
+  title = "Sr. Software Engineer"
+  company = "Nethawk Networks"
+  company_url = ""
+  location = "Bhubaneshwar, India"
+  date_start = "2007-07-01"
+  date_end = "2008-08-31"
+  description = """Develope and support Wireless products"""
+  
 +++
