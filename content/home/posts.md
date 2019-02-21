@@ -7,7 +7,7 @@ weight = 40  # Order that this section will appear.
 date = 2016-04-20T00:00:00
 
 title = "Recent Posts"
-subtitle = ""
+subtitle = "YouTube"
 
 # Number of recent posts to list.
 count = 5
@@ -20,7 +20,7 @@ list_format = 2
 
 # Filter posts by tag or category.
 #  E.g. to only show posts tagged with `Academic`, set `filter_tag = "Academic"`
-filter_tag = ""
+filter_tag = "HDI Laboratory seminar"
 filter_category = ""
 +++
 
