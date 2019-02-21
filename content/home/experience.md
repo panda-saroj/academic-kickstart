@@ -85,6 +85,6 @@ date_format = "January 2006"
   location = "Kolkata, India"
   date_start = "1998-09-01"
   date_end = "2000-09-30"
-  description = """UMTS 3G Protocol stacks devlopment and testing"""
+  description = """SMSC application development"""
   
 +++
