@@ -67,6 +67,24 @@ date_format = "January 2006"
   location = "Bangalore, India"
   date_start = "2003-04-01"
   date_end = "2006-02-28"
-  description = """pen Source Projects at Nokia, Finland"""
+  description = """Open Source Projects at Nokia, Finland"""
+ 
+[[experience]]
+  title = "Sr. Software Engineer"
+  company = "Tata Elxsi Ltd."
+  company_url = ""
+  location = "Bangalore, India"
+  date_start = "2001-03-01"
+  date_end = "2003-03-31"
+  description = """UMTS 3G Protocol stacks devlopment and testing""" 
+
+[[experience]]
+  title = "Software Engineer"
+  company = "Ushacommunication Technology"
+  company_url = ""
+  location = "Kolkata, India"
+  date_start = "1998-09-01"
+  date_end = "2000-09-30"
+  description = """SMSC application development""" 
   
 +++
