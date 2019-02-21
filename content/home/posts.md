@@ -7,9 +7,9 @@ weight = 40  # Order that this section will appear.
 date = 2016-04-20T00:00:00
 
 title = "Recent Posts"
-subtitle = "YouTube"
+subtitle = "YouTube HDI Laboratory seminar PyTorch, January 30th, 2019"
 
-description = "HDI Laboratory seminar PyTorch, January 30th, 2019"
+
 
 # Number of recent posts to list.
 count = 5
