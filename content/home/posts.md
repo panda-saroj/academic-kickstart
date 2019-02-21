@@ -7,7 +7,7 @@ weight = 40  # Order that this section will appear.
 date = 2016-04-20T00:00:00
 
 title = "Recent Posts"
-subtitle = "YouTube HDI Laboratory seminar PyTorch, January 30th, 2019, url : https://www.youtube.com/watch?v=v9eLwipppCM"
+subtitle = "HDI Laboratory seminar PyTorch https://www.youtube.com/watch?v=v9eLwipppCM"
 
 
 
