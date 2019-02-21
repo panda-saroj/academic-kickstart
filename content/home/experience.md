@@ -51,5 +51,13 @@ date_format = "January 2006"
   date_end = "2013-07-31"
   description = """Manage customer deliverables for projects in Wireless, Banking and Insurance domains"""
 
+[[experience]]
+  title = "Sr. Software Engineer"
+  company = "Nethawk Networks"
+  company_url = ""
+  location = "Bhubaneshwar, India"
+  date_start = "2006-07-01"
+  date_end = "2007-08-31"
+  description = """Develope and support Wireless products"""
  
 +++
