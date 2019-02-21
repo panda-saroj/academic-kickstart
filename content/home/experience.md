@@ -60,7 +60,7 @@ date_format = "January 2006"
   date_end = "2007-08-31"
   description = """Develope and support Wireless products"""
   
- [[experience]]
+[[experience]]
   title = "Sr. Software Engineer"
   company = "Wipro Technologies"
   company_url = "https://www.wipro.com"
@@ -69,7 +69,7 @@ date_format = "January 2006"
   date_end = "2006-02-31"
   description = """Open Source Projects at Nokia, Finland"""
   
- [[experience]]
+[[experience]]
   title = "Sr. Software Engineer"
   company = "Tata Elxsi Ltd."
   company_url = "https://www.tataelxsi.com/"
@@ -85,6 +85,5 @@ date_format = "January 2006"
   location = "Kolkata, India"
   date_start = "1998-09-01"
   date_end = "2000-09-30"
-  description = """SMSC application development"""
-  
+  description = """SMSC application development""" 
 +++
