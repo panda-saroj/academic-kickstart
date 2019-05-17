@@ -16,7 +16,7 @@ list_format = 2
 tags = ["Seminar"]
 
 # Step to follow.
-HDI-Laboratory-seminar-PyTorch="https://www.youtube.com/watch?v=v9eLwipppCM"
+HDI_Laboratory_seminar_PyTorch="https://www.youtube.com/watch?v=v9eLwipppCM"
 advancemenuimg=""
 
 
