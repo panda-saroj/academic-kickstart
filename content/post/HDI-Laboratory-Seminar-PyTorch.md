@@ -33,6 +33,7 @@ Hidden layer activation function: Relu
 Output layer activation function: Linear
 
 GitHub: https://github.com/saroj-uta/HDI-Lab
+
 YouTube: https://www.youtube.com/watch?v=v9eLwipppCM
 
 </body>
