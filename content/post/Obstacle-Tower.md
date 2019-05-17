@@ -16,7 +16,7 @@ list_format = 2
 tags = ["Abstract"]
 
 # Step to follow.
-"1) Obstacle Tower."
+Obstacle_Tower="1) Obstacle Tower."
 advancemenuimg=""
 
 
