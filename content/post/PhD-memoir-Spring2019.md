@@ -26,16 +26,3 @@ image = ""
 caption = "" 
 +++
 
-<body>
-
-<h2> Discussion </h2>
-
-<h3> Challenges faced </h3>
-
-
-<h4> Contributions </h4>
-
-
-
-<h5> Referrences: </h5>
-
