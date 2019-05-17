@@ -1,5 +1,5 @@
 +++
-title = "Semester Review" 
+title = "PhD Semester Spring 2019" 
 date = 2019-05-15T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -16,7 +16,7 @@ list_format = 2
 tags = ["Abstract"]
 
 # Step to follow.
-Semester_Review="1) Semester Review."
+PhD_memoir_Spring2019="PhD Semester Spring 2019"
 advancemenuimg=""
 
 
