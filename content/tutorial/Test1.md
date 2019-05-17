@@ -28,11 +28,12 @@ caption = ""
 
 <body>
  
-PyTorch implementation of Perceptron Neural Network, with one hidden Layer using autograd feature. 
-Hidden layer activation function: Relu
-Output layer activation function: Linear
+PyTorch implementation of Perceptron Neural Network, with one hidden Layer using autograd feature. <br />
+Hidden layer activation function: Relu <br />
+Output layer activation function: Linear <br />
 
-GitHub: https://github.com/saroj-uta/HDI-Lab
+
+GitHub: https://github.com/saroj-uta/HDI-Lab <br />
 
 YouTube: https://www.youtube.com/watch?v=v9eLwipppCM
 
