@@ -23,16 +23,16 @@ date_format = "Jan 2006"
   title = "Neural Networks and Deep Learning"
   organization = "Coursera"
   certificate_url = "https://www.coursera.org/account/accomplishments/certificate/HKAXY4UT2HJQ"
-  date_start = "09-01-2018"
-  date_end = ""
+  date_start = "2018-07-01"
+  date_end = "2018-10-31"
   description = ""
 
 [[item]]
   title = "Structuring Machine Learning Projects"
   organization = "Coursera"
   certificate_url = "https://www.coursera.org/account/accomplishments/certificate/R2VHCXK3ASDM"
-  date_start = "10-02-2018"
-  date_end = ""
+  date_start = "2018-07-01"
+  date_end = "2018-09-30"
   description = ""
   
 +++
