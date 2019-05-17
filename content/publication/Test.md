@@ -15,9 +15,6 @@ list_format = 2
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = ["Abstract"]
 
-# Step to follow.
-PhD_memoir_Spring2019="PhD Semester Spring 2019"
-advancemenuimg=""
 
 
 #Optional featured image (relative to static/img/ folder).
