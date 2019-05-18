@@ -30,3 +30,5 @@ diligently, and representative of the underlying domain. While valuable, these m
 an additional source of such training sets. To address this problem of incomplete training sets, this paper proposes to systematically
 supplement existing training sets with samples inferred via program analysis. In our preliminary evaluation, training sets enriched with
 samples inferred via dynamic symbolic execution were able to improve machine learning classifier accuracy for simple stringgenerating programs.
+
+<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8452877">Full Paper</a> 
