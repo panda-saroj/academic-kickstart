@@ -1,5 +1,5 @@
 +++
-title = "Complementing Machine Learning Classifiers via Dynamic Symbolic Execution:" Human vs. Bot Generated" Tweets" 
+title = "Complementing Machine Learning Classifiers via Dynamic Symbolic Execution: Human vs. Bot Generated Tweets" 
 date = 2019-05-15T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
