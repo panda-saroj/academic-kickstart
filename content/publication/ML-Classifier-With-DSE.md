@@ -23,7 +23,7 @@ image = ""
 caption = "" 
 +++
 
-Abstract
+<b>Abstract</b>
 <br>
 Recent machine learning approaches for classifying text as humanwritten or bot-generated rely on training sets that are large, labeled
 diligently, and representative of the underlying domain. While valuable, these machine learning approaches ignore programs as
