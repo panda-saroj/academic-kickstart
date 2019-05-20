@@ -21,6 +21,9 @@ image = ""
 caption = "" 
 +++
 
+<body>
+
+<!--
 Environment 
 
 Linux: Ubuntu 16.04
@@ -33,5 +36,7 @@ Step 1
 Create a conda virtual environment with your virtual environment name(e.g. venv_dopamine)
 
 conda create -n venv_dopamine python=3.6.8 anaconda
+
+-->
 
 
