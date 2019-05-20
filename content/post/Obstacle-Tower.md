@@ -15,11 +15,6 @@ list_format = 2
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = ["Abstract"]
 
-# Step to follow.
-Obstacle_Tower="1) Obstacle Tower."
-advancemenuimg=""
-
-
 #Optional featured image (relative to static/img/ folder).
 [header] 
 image = "" 
