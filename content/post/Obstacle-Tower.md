@@ -37,6 +37,6 @@ Agents trained using the current state of the art Deep RL algorithms such as Ope
 To solve the Obstacle Tower, the agent must both learn a complex set of behaviors under varying visual circumstances and scene configurations and to learn good abstract representations and generalize that can easily be re-used under very different circumstances.
 
 <h5> References: </h5>
-1.	https://arxiv.org/pdf/1902.01378.pdf
+1.	https://arxiv.org/pdf/1902.01378.pdf  <br>
 2.	https://medium.com/@cxbxmxcx/an-interview-with-dr-arthur-juliani-from-unity-on-the-otc-and-more-7d866381e1b2
 
