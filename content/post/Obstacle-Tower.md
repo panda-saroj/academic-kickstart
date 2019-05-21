@@ -33,5 +33,8 @@ To solve the Obstacle Tower, the agent must both learn a complex set of behavior
 
 <h5> References: </h5>
 1.	https://arxiv.org/pdf/1902.01378.pdf  <br>
-2.	https://medium.com/@cxbxmxcx/an-interview-with-dr-arthur-juliani-from-unity-on-the-otc-and-more-7d866381e1b2
+2. https://www.aicrowd.com/challenges/unity-obstacle-tower-challenge <br>
+3.	https://medium.com/@cxbxmxcx/an-interview-with-dr-arthur-juliani-from-unity-on-the-otc-and-more-7d866381e1b2 <br>
+
+
 
