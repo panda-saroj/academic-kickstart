@@ -95,7 +95,17 @@ Training with Dopamine. Move to the dopamine directory and start the training <b
 <b>Step 14</b> <br>
 If faced with problem of <b>ImportError: libcublas.so.10.0: cannot open shared object file: No such file or directory</b> <br>
 Find whether the file exist or not <br>
-<i>locate libcublas.so.10.0 </i>
+<i>locate libcublas.so.10.0 </i> <br>
+Set the LD_LIBRARY_PATH environment variable to the path for locate libcublas.so.10.0 using export command <br>
+e.g. <i>export LD_LIBRARY_PATH=/usr/local/cuda-9.0/lib64/ </i> <br>
+If the the file libcublas.so.10.0 is not found then look for which version of libcublas you have on your system and set the LD_LIBRARY_PATH to that folder. <br>
+Install compatible version of Tensorflow <br>
+Rerun the command to start the training.
+<i>python -um dopamine.discrete_domains.train --base_dir=/tmp/dopamine --gin_files='dopamine/agents/rainbow/configs/rainbow_otc.gin'</i>
+
+
+
+
 
 
 
